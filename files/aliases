@@ -1,0 +1,8 @@
+alias ll="ls -lah"
+alias zz="source ~/.zshrc"
+alias g="git"
+alias dev="cd ~/dev"
+alias ..="cd .."
+alias ...="cd ../.."
+alias home="cd ~"
+alias code="/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"

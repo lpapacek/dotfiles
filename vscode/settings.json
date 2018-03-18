@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/._*": true,
+        "**/*.*~": true
+    },
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "workbench.statusBar.feedback.visible": false
+}
